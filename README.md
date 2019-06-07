@@ -1,15 +1,16 @@
 # DisasterResponse
 ### Table of Contents
 
-1. [Installation](#installation)
+1. [Summary and Motivation](#installation)
 2. [File Descriptions](#files)
 3. [Results](#results)
 4. [Licensing, Authors](#licensing)
 5. [Instructions](#instructions)
 6. [Screenshots](#screenshots)
 
-## Installation <a name="installation"></a>
-You can work on Jupyter Notebook or can use Google colab
+## Summary and Motivation <a name="installation"></a>
+You can work on Jupyter Notebook or can use Google colab .Below I expalin the instruction for running this project . In this web App you enter your message and than hit on classify message button than It does classification of message on the basis of Disaster category .
+The Motivation behind this project is that It help person who are facing problems in massisve disaster by sending message or tweets  which is classify by company what type of problem is facing by person and help him out to free fom it I include screenshots of Web app you can read more in below section
 
 ## File Descriptions <a name="files"></a>
 
